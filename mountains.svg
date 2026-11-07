@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+  <title id="title">Горы на закате</title>
+  <desc id="desc">Стилизованный пейзаж: горные пики на фоне неба с солнцем.</desc>
+  <rect width="800" height="450" fill="#dfe9f5"/>
+  <circle cx="560" cy="130" r="52" fill="#f2b04e"/>
+  <path d="M0 320 L140 200 L250 300 L360 180 L470 310 L590 210 L700 300 L800 240 V450 H0 Z" fill="#7a9cc4"/>
+  <path d="M0 380 L180 280 L320 370 L460 270 L620 380 L800 300 V450 H0 Z" fill="#4a6fa0"/>
+</svg>
